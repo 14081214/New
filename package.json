@@ -11,5 +11,8 @@
   "devDependencies": {
     "@types/electron": "^1.4.37",
     "@types/node": "^7.0.13"
+  },
+  "dependencies": {
+    "electron-config": "^0.2.1"
   }
 }
